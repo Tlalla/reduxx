@@ -1,0 +1,13 @@
+.count{
+    margin-top: 100px;
+}
+.butons{
+  width: 70px; 
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 10px;
+}
+.btn{
+    margin-right: 10px;
+}
